@@ -1,0 +1,7 @@
+{
+  "name": "bash-utils",
+  "version": "0.0.1",
+  "description": "Bash utility functions",
+  "scripts": [ "bash-utils.sh" ],
+  "install": "make install"
+}
